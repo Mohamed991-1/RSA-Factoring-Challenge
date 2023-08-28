@@ -88,10 +88,5 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 
 ## Author
 
-[David Atat](www.github.com/daveeazi)
+[Mohamed Abdelzaher](github.com/Mohamed991-1)
 
-## Resources
-
-- [RSA](<https://en.wikipedia.org/wiki/RSA_(cryptosystem%29)>)
-- [How does HTTPS provide security?](https://stackoverflow.com/questions/3968095/how-does-https-provide-security)
-- [Prime Factorization](https://privacycanada.net/mathematics/prime-factorization/)
